@@ -1,0 +1,6 @@
+substitutions:
+  device_name: example
+  device_description: Example Presence and Motion Sensor
+  friendly_name: Example
+
+<<: !include motion_common.yaml
