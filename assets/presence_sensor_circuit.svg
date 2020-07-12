@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="470 896 682 512" preserveAspectRatio="xMinYMin meet" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="background"><rect x="470" y="896" width="682" height="512" fill="#FFFFFF" stroke="none"/></g>
+<g id="NodeMCU%20ESP8266">
+<rect x="1008" y="912" width="128" height="480" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<line x1="992" y1="928" x2="1008" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="932.8" font-family="sans-serif" font-size="16" fill="#000000">3V3</text>
+<line x1="992" y1="960" x2="1008" y2="960" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="964.8" font-family="sans-serif" font-size="16" fill="#000000">GND</text>
+<line x1="992" y1="992" x2="1008" y2="992" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="996.8" font-family="sans-serif" font-size="16" fill="#000000">TX</text>
+<line x1="992" y1="1024" x2="1008" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1028.8" font-family="sans-serif" font-size="16" fill="#000000">RX</text>
+<line x1="992" y1="1056" x2="1008" y2="1056" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1060.8" font-family="sans-serif" font-size="16" fill="#000000">D8</text>
+<line x1="992" y1="1088" x2="1008" y2="1088" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1092.8" font-family="sans-serif" font-size="16" fill="#000000">D7</text>
+<line x1="992" y1="1120" x2="1008" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1124.8" font-family="sans-serif" font-size="16" fill="#000000">D6</text>
+<line x1="992" y1="1152" x2="1008" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1156.8" font-family="sans-serif" font-size="16" fill="#000000">D5</text>
+<line x1="992" y1="1184" x2="1008" y2="1184" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1188.8" font-family="sans-serif" font-size="16" fill="#000000">GND1</text>
+<line x1="992" y1="1216" x2="1008" y2="1216" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1220.8" font-family="sans-serif" font-size="16" fill="#000000">3V31</text>
+<line x1="992" y1="1248" x2="1008" y2="1248" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1252.8" font-family="sans-serif" font-size="16" fill="#000000">D4</text>
+<line x1="992" y1="1280" x2="1008" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1284.8" font-family="sans-serif" font-size="16" fill="#000000">D3</text>
+<line x1="992" y1="1312" x2="1008" y2="1312" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1316.8" font-family="sans-serif" font-size="16" fill="#000000">D2</text>
+<line x1="992" y1="1344" x2="1008" y2="1344" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1348.8" font-family="sans-serif" font-size="16" fill="#000000">D1</text>
+<line x1="992" y1="1376" x2="1008" y2="1376" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1012" y="1380.8" font-family="sans-serif" font-size="16" fill="#000000">D0</text>
+<line x1="1152" y1="1376" x2="1136" y2="1376" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1109" y="1380.8" font-family="sans-serif" font-size="16" fill="#000000">AO</text>
+<line x1="1152" y1="1344" x2="1136" y2="1344" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1090" y="1348.8" font-family="sans-serif" font-size="16" fill="#000000">RSU1</text>
+<line x1="1152" y1="1312" x2="1136" y2="1312" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1099" y="1316.8" font-family="sans-serif" font-size="16" fill="#000000">RSU</text>
+<line x1="1152" y1="1280" x2="1136" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1101" y="1284.8" font-family="sans-serif" font-size="16" fill="#000000">SD3</text>
+<line x1="1152" y1="1248" x2="1136" y2="1248" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1101" y="1252.8" font-family="sans-serif" font-size="16" fill="#000000">SD2</text>
+<line x1="1152" y1="1216" x2="1136" y2="1216" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1101" y="1220.8" font-family="sans-serif" font-size="16" fill="#000000">SD1</text>
+<line x1="1152" y1="1184" x2="1136" y2="1184" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1095" y="1188.8" font-family="sans-serif" font-size="16" fill="#000000">CMD</text>
+<line x1="1152" y1="1152" x2="1136" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1099" y="1156.8" font-family="sans-serif" font-size="16" fill="#000000">SDD</text>
+<line x1="1152" y1="1120" x2="1136" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1100" y="1124.8" font-family="sans-serif" font-size="16" fill="#000000">CLK</text>
+<line x1="1152" y1="1088" x2="1136" y2="1088" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1088" y="1092.8" font-family="sans-serif" font-size="16" fill="#000000">GND3</text>
+<line x1="1152" y1="1056" x2="1136" y2="1056" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1095" y="1060.8" font-family="sans-serif" font-size="16" fill="#000000">3V32</text>
+<line x1="1152" y1="1024" x2="1136" y2="1024" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1110" y="1028.8" font-family="sans-serif" font-size="16" fill="#000000">EN</text>
+<line x1="1152" y1="992" x2="1136" y2="992" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1101" y="996.8" font-family="sans-serif" font-size="16" fill="#000000">RST</text>
+<line x1="1152" y1="960" x2="1136" y2="960" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1088" y="964.8" font-family="sans-serif" font-size="16" fill="#000000">GND2</text>
+<line x1="1152" y1="928" x2="1136" y2="928" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="1109" y="932.8" font-family="sans-serif" font-size="16" fill="#000000">Vin</text>
+<rect x="1008" y="912" width="128" height="480" stroke="#000000" stroke-opacity="1" stroke-width="3" fill="none" />
+<ellipse cx="992" cy="928" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="960" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="992" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1024" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1056" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1088" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1120" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1152" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1248" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1280" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="992" cy="1376" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1376" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1344" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1312" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1280" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1248" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1216" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1184" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1152" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1120" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1088" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1056" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="1024" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="992" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="960" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="1152" cy="928" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<text x="905" y="1424.8" font-family="sans-serif" font-size="16" fill="#000000">NodeMCU ESP8266 (NodeMCU%20ESP8266)</text>
+</g>
+<g id="PIRSensor">
+<rect x="656" y="1232" width="128" height="64" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<line x1="640" y1="1248" x2="656" y2="1248" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="660" y="1252.8" font-family="sans-serif" font-size="16" fill="#000000">Vin</text>
+<line x1="640" y1="1280" x2="656" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="660" y="1284.8" font-family="sans-serif" font-size="16" fill="#000000">OUT</text>
+<line x1="800" y1="1280" x2="784" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="745" y="1284.8" font-family="sans-serif" font-size="16" fill="#000000">GND</text>
+<rect x="656" y="1232" width="128" height="64" stroke="#000000" stroke-opacity="1" stroke-width="3" fill="none" />
+<text x="682" y="1328.8" font-family="sans-serif" font-size="16" fill="#000000">PIRSensor</text>
+</g>
+<g id="RCWL-0516">
+<rect x="688" y="1072" width="128" height="96" fill="#FFFFFF" fill-opacity="0.831372549019608" stroke="none" />
+<line x1="832" y1="1088" x2="816" y2="1088" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="784" y="1092.8" font-family="sans-serif" font-size="16" fill="#000000">3V3</text>
+<line x1="832" y1="1120" x2="816" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="777" y="1124.8" font-family="sans-serif" font-size="16" fill="#000000">GND</text>
+<line x1="832" y1="1152" x2="816" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="779" y="1156.8" font-family="sans-serif" font-size="16" fill="#000000">OUT</text>
+<line x1="672" y1="1152" x2="688" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="692" y="1156.8" font-family="sans-serif" font-size="16" fill="#000000">Vin</text>
+<line x1="672" y1="1120" x2="688" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="3" stroke-linecap="round" fill="none" />
+<text x="692" y="1124.8" font-family="sans-serif" font-size="16" fill="#000000">CDS</text>
+<rect x="688" y="1072" width="128" height="96" stroke="#000000" stroke-opacity="1" stroke-width="3" fill="none" />
+<ellipse cx="832" cy="1088" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<ellipse cx="672" cy="1120" rx="4" ry="4" stroke="#877777" stroke-opacity="1" stroke-width="1" fill="none" />
+<text x="708" y="1200.8" font-family="sans-serif" font-size="16" fill="#000000">RCWL-0516</text>
+</g>
+<g id="Wire">
+<line x1="557" y1="1216" x2="915" y2="1216" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="480" y1="1216" x2="992" y2="1216" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="480" cy="1216" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="616" y1="1248" x2="504" y2="1248" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="640" y1="1248" x2="480" y2="1248" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="480" y1="1243" x2="480" y2="1221" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="480" y1="1248" x2="480" y2="1216" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="480" cy="1216" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="635" y1="1280" x2="613" y2="1280" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="640" y1="1280" x2="608" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="608" y1="1290" x2="608" y2="1334" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="608" y1="1280" x2="608" y2="1344" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="666" y1="1344" x2="934" y2="1344" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="608" y1="1344" x2="992" y2="1344" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="643" y1="1152" x2="509" y2="1152" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="672" y1="1152" x2="480" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="480" y1="1162" x2="480" y2="1206" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="480" y1="1152" x2="480" y2="1216" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="480" cy="1216" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="837" y1="1152" x2="859" y2="1152" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="832" y1="1152" x2="864" y2="1152" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="864" y1="1176" x2="864" y2="1288" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="864" y1="1152" x2="864" y2="1312" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="883" y1="1312" x2="973" y2="1312" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="864" y1="1312" x2="992" y2="1312" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="842" y1="1120" x2="886" y2="1120" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="832" y1="1120" x2="896" y2="1120" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="896" y1="1130" x2="896" y2="1174" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="896" y1="1120" x2="896" y2="1184" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="896" cy="1184" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="910" y1="1184" x2="978" y2="1184" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="896" y1="1184" x2="992" y2="1184" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="896" cy="1184" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+<g id="Wire">
+<line x1="814" y1="1280" x2="882" y2="1280" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="800" y1="1280" x2="896" y2="1280" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+</g>
+<g id="Wire">
+<line x1="896" y1="1266" x2="896" y2="1198" stroke="#FFFFFF" stroke-opacity="1" stroke-width="6" stroke-linecap="round" fill="none" />
+<line x1="896" y1="1280" x2="896" y2="1184" stroke="#877777" stroke-opacity="1" stroke-width="1.5" stroke-linecap="round" fill="none" />
+<ellipse cx="896" cy="1184" rx="4" ry="4" fill="#877777" fill-opacity="1" stroke="none" />
+</g>
+</svg>
